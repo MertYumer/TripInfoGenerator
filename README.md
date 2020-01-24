@@ -1,1 +1,1 @@
-Simple console app which makes request to Google Maps by given URL and gets info about trip from the response. Then adds the info in JSON file, so you can use it easily. (The app is made to work with all pairs from the bigger cities in Bulgaria, but you can modify it however you like)
+Simple console app which makes request to Google Maps by given URL and gets info about trip from the response. Then writes the info in JSON file, so you can use it easily. The app is made to work with all possible combinations between the bigger cities in Bulgaria.
