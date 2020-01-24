@@ -44,8 +44,8 @@
   {
     "Origin": "Blagoevgrad",
     "Destination": "Kardzhali",
-    "Distance": 353.0,
-    "Duration": "4 ч 14 мин"
+    "Distance": 389.0,
+    "Duration": "4 ч 10 мин"
   },
   {
     "Origin": "Blagoevgrad",
@@ -81,7 +81,7 @@
     "Origin": "Blagoevgrad",
     "Destination": "Pleven",
     "Distance": 267.0,
-    "Duration": "2 ч 49 мин"
+    "Duration": "2 ч 59 мин"
   },
   {
     "Origin": "Blagoevgrad",
@@ -111,7 +111,7 @@
     "Origin": "Blagoevgrad",
     "Destination": "Sliven",
     "Distance": 419.0,
-    "Duration": "4 ч 18 мин"
+    "Duration": "4 ч 13 мин"
   },
   {
     "Origin": "Blagoevgrad",
@@ -159,7 +159,7 @@
     "Origin": "Burgas",
     "Destination": "Varna",
     "Distance": 131.0,
-    "Duration": "1 ч 53 мин"
+    "Duration": "1 ч 59 мин"
   },
   {
     "Origin": "Burgas",
@@ -332,14 +332,14 @@
   {
     "Origin": "Varna",
     "Destination": "Dobrich",
-    "Distance": 51.8,
-    "Duration": "50 мин"
+    "Distance": 51.7,
+    "Duration": "51 мин"
   },
   {
     "Origin": "Varna",
     "Destination": "Kardzhali",
-    "Distance": 379.0,
-    "Duration": "4 ч 52 мин"
+    "Distance": 389.0,
+    "Duration": "4 ч 51 мин"
   },
   {
     "Origin": "Varna",
@@ -362,7 +362,7 @@
   {
     "Origin": "Varna",
     "Destination": "Pazardzhik",
-    "Distance": 404.0,
+    "Distance": 415.0,
     "Duration": "4 ч 39 мин"
   },
   {
@@ -380,8 +380,8 @@
   {
     "Origin": "Varna",
     "Destination": "Plovdiv",
-    "Distance": 364.0,
-    "Duration": "4 ч 23 мин"
+    "Distance": 374.0,
+    "Duration": "4 ч 22 мин"
   },
   {
     "Origin": "Varna",
@@ -404,13 +404,13 @@
   {
     "Origin": "Varna",
     "Destination": "Sliven",
-    "Distance": 211.0,
-    "Duration": "2 ч 47 мин"
+    "Distance": 221.0,
+    "Duration": "2 ч 59 мин"
   },
   {
     "Origin": "Varna",
     "Destination": "Smolyan",
-    "Distance": 435.0,
+    "Distance": 445.0,
     "Duration": "5 ч 57 мин"
   },
   {
@@ -422,8 +422,8 @@
   {
     "Origin": "Varna",
     "Destination": "Stara Zagora",
-    "Distance": 287.0,
-    "Duration": "3 ч 36 мин"
+    "Distance": 297.0,
+    "Duration": "3 ч 35 мин"
   },
   {
     "Origin": "Varna",
@@ -434,8 +434,8 @@
   {
     "Origin": "Varna",
     "Destination": "Haskovo",
-    "Distance": 328.0,
-    "Duration": "3 ч 45 мин"
+    "Distance": 338.0,
+    "Duration": "4 ч 11 мин"
   },
   {
     "Origin": "Varna",
@@ -446,7 +446,7 @@
   {
     "Origin": "Varna",
     "Destination": "Yambol",
-    "Distance": 208.0,
+    "Distance": 218.0,
     "Duration": "2 ч 57 мин"
   },
   {
@@ -470,14 +470,14 @@
   {
     "Origin": "Veliko Tarnovo",
     "Destination": "Dobrich",
-    "Distance": 247.0,
-    "Duration": "2 ч 52 мин"
+    "Distance": 243.0,
+    "Duration": "2 ч 53 мин"
   },
   {
     "Origin": "Veliko Tarnovo",
     "Destination": "Kardzhali",
     "Distance": 221.0,
-    "Duration": "2 ч 55 мин"
+    "Duration": "3 ч 10 мин"
   },
   {
     "Origin": "Veliko Tarnovo",
@@ -536,7 +536,7 @@
   {
     "Origin": "Veliko Tarnovo",
     "Destination": "Silistra",
-    "Distance": 227.0,
+    "Distance": 230.0,
     "Duration": "2 ч 47 мин"
   },
   {
@@ -602,8 +602,8 @@
   {
     "Origin": "Vidin",
     "Destination": "Dobrich",
-    "Distance": 534.0,
-    "Duration": "7 ч 17 мин"
+    "Distance": 530.0,
+    "Duration": "6 ч 22 мин"
   },
   {
     "Origin": "Vidin",
@@ -644,8 +644,8 @@
   {
     "Origin": "Vidin",
     "Destination": "Pleven",
-    "Distance": 204.0,
-    "Duration": "2 ч 46 мин"
+    "Distance": 212.0,
+    "Duration": "2 ч 44 мин"
   },
   {
     "Origin": "Vidin",
@@ -656,8 +656,8 @@
   {
     "Origin": "Vidin",
     "Destination": "Razgrad",
-    "Distance": 392.0,
-    "Duration": "5 ч 30 мин"
+    "Distance": 399.0,
+    "Duration": "5 ч 24 мин"
   },
   {
     "Origin": "Vidin",
@@ -668,7 +668,7 @@
   {
     "Origin": "Vidin",
     "Destination": "Silistra",
-    "Distance": 478.0,
+    "Distance": 482.0,
     "Duration": "6 ч 20 мин"
   },
   {
@@ -681,7 +681,7 @@
     "Origin": "Vidin",
     "Destination": "Smolyan",
     "Distance": 442.0,
-    "Duration": "6 ч 22 мин"
+    "Duration": "6 ч 23 мин"
   },
   {
     "Origin": "Vidin",
@@ -705,7 +705,7 @@
     "Origin": "Vidin",
     "Destination": "Haskovo",
     "Distance": 425.0,
-    "Duration": "5 ч 23 мин"
+    "Duration": "5 ч 22 мин"
   },
   {
     "Origin": "Vidin",
@@ -728,7 +728,7 @@
   {
     "Origin": "Vratsa",
     "Destination": "Dobrich",
-    "Distance": 428.0,
+    "Distance": 424.0,
     "Duration": "5 ч 27 мин"
   },
   {
@@ -746,8 +746,8 @@
   {
     "Origin": "Vratsa",
     "Destination": "Lovech",
-    "Distance": 142.0,
-    "Duration": "1 ч 59 мин"
+    "Distance": 144.0,
+    "Duration": "1 ч 55 мин"
   },
   {
     "Origin": "Vratsa",
@@ -794,7 +794,7 @@
   {
     "Origin": "Vratsa",
     "Destination": "Silistra",
-    "Distance": 373.0,
+    "Distance": 376.0,
     "Duration": "4 ч 45 мин"
   },
   {
@@ -843,13 +843,13 @@
     "Origin": "Vratsa",
     "Destination": "Yambol",
     "Distance": 394.0,
-    "Duration": "4 ч 18 мин"
+    "Duration": "4 ч 15 мин"
   },
   {
     "Origin": "Gabrovo",
     "Destination": "Dobrich",
-    "Distance": 289.0,
-    "Duration": "3 ч 44 мин"
+    "Distance": 285.0,
+    "Duration": "3 ч 45 мин"
   },
   {
     "Origin": "Gabrovo",
@@ -873,7 +873,7 @@
     "Origin": "Gabrovo",
     "Destination": "Montana",
     "Distance": 234.0,
-    "Duration": "3 ч 10 мин"
+    "Duration": "2 ч 52 мин"
   },
   {
     "Origin": "Gabrovo",
@@ -909,19 +909,19 @@
     "Origin": "Gabrovo",
     "Destination": "Ruse",
     "Distance": 148.0,
-    "Duration": "1 ч 52 мин"
+    "Duration": "1 ч 58 мин"
   },
   {
     "Origin": "Gabrovo",
     "Destination": "Silistra",
-    "Distance": 268.0,
+    "Distance": 271.0,
     "Duration": "3 ч 37 мин"
   },
   {
     "Origin": "Gabrovo",
     "Destination": "Sliven",
     "Distance": 144.0,
-    "Duration": "1 ч 53 мин"
+    "Duration": "1 ч 51 мин"
   },
   {
     "Origin": "Gabrovo",
@@ -968,8 +968,8 @@
   {
     "Origin": "Dobrich",
     "Destination": "Kardzhali",
-    "Distance": 415.0,
-    "Duration": "5 ч 18 мин"
+    "Distance": 423.0,
+    "Duration": "5 ч 17 мин"
   },
   {
     "Origin": "Dobrich",
@@ -992,8 +992,8 @@
   {
     "Origin": "Dobrich",
     "Destination": "Pazardzhik",
-    "Distance": 440.0,
-    "Duration": "4 ч 41 мин"
+    "Distance": 448.0,
+    "Duration": "5 ч 15 мин"
   },
   {
     "Origin": "Dobrich",
@@ -1005,7 +1005,7 @@
     "Origin": "Dobrich",
     "Destination": "Pleven",
     "Distance": 335.0,
-    "Duration": "4 ч 12 мин"
+    "Duration": "4 ч 11 мин"
   },
   {
     "Origin": "Dobrich",
@@ -1029,7 +1029,7 @@
     "Origin": "Dobrich",
     "Destination": "Silistra",
     "Distance": 89.7,
-    "Duration": "57 мин"
+    "Duration": "1 ч 10 мин"
   },
   {
     "Origin": "Dobrich",
@@ -1064,8 +1064,8 @@
   {
     "Origin": "Dobrich",
     "Destination": "Haskovo",
-    "Distance": 363.0,
-    "Duration": "4 ч 34 мин"
+    "Distance": 371.0,
+    "Duration": "4 ч 33 мин"
   },
   {
     "Origin": "Dobrich",
@@ -1076,7 +1076,7 @@
   {
     "Origin": "Dobrich",
     "Destination": "Yambol",
-    "Distance": 232.0,
+    "Distance": 243.0,
     "Duration": "3 ч 24 мин"
   },
   {
@@ -1094,8 +1094,8 @@
   {
     "Origin": "Kardzhali",
     "Destination": "Montana",
-    "Distance": 354.0,
-    "Duration": "4 ч 51 мин"
+    "Distance": 390.0,
+    "Duration": "4 ч 39 мин"
   },
   {
     "Origin": "Kardzhali",
@@ -1106,8 +1106,8 @@
   {
     "Origin": "Kardzhali",
     "Destination": "Pernik",
-    "Distance": 288.0,
-    "Duration": "3 ч 36 мин"
+    "Distance": 324.0,
+    "Duration": "3 ч 24 мин"
   },
   {
     "Origin": "Kardzhali",
@@ -1154,8 +1154,8 @@
   {
     "Origin": "Kardzhali",
     "Destination": "Sofia",
-    "Distance": 242.0,
-    "Duration": "3 ч 12 мин"
+    "Distance": 279.0,
+    "Duration": "2 ч 46 мин"
   },
   {
     "Origin": "Kardzhali",
@@ -1202,8 +1202,8 @@
   {
     "Origin": "Kyustendil",
     "Destination": "Pazardzhik",
-    "Distance": 162.0,
-    "Duration": "2 ч 41 мин"
+    "Distance": 226.0,
+    "Duration": "2 ч 30 мин"
   },
   {
     "Origin": "Kyustendil",
@@ -1215,7 +1215,7 @@
     "Origin": "Kyustendil",
     "Destination": "Pleven",
     "Distance": 269.0,
-    "Duration": "3 ч 19 мин"
+    "Duration": "3 ч 15 мин"
   },
   {
     "Origin": "Kyustendil",
@@ -1238,7 +1238,7 @@
   {
     "Origin": "Kyustendil",
     "Destination": "Silistra",
-    "Distance": 536.0,
+    "Distance": 539.0,
     "Duration": "6 ч 27 мин"
   },
   {
@@ -1250,8 +1250,8 @@
   {
     "Origin": "Kyustendil",
     "Destination": "Smolyan",
-    "Distance": 296.0,
-    "Duration": "4 ч 57 мин"
+    "Distance": 357.0,
+    "Duration": "4 ч 41 мин"
   },
   {
     "Origin": "Kyustendil",
@@ -1269,7 +1269,7 @@
     "Origin": "Kyustendil",
     "Destination": "Targovishte",
     "Distance": 425.0,
-    "Duration": "5 ч 11 мин"
+    "Duration": "4 ч 41 мин"
   },
   {
     "Origin": "Kyustendil",
@@ -1287,7 +1287,7 @@
     "Origin": "Kyustendil",
     "Destination": "Yambol",
     "Distance": 411.0,
-    "Duration": "4 ч 26 мин"
+    "Duration": "4 ч 17 мин"
   },
   {
     "Origin": "Lovech",
@@ -1334,7 +1334,7 @@
   {
     "Origin": "Lovech",
     "Destination": "Silistra",
-    "Distance": 274.0,
+    "Distance": 278.0,
     "Duration": "3 ч 41 мин"
   },
   {
@@ -1377,7 +1377,7 @@
     "Origin": "Lovech",
     "Destination": "Shumen",
     "Distance": 232.0,
-    "Duration": "2 ч 51 мин"
+    "Duration": "2 ч 57 мин"
   },
   {
     "Origin": "Lovech",
@@ -1424,8 +1424,8 @@
   {
     "Origin": "Montana",
     "Destination": "Silistra",
-    "Distance": 392.0,
-    "Duration": "5 ч 21 мин"
+    "Distance": 396.0,
+    "Duration": "4 ч 42 мин"
   },
   {
     "Origin": "Montana",
@@ -1491,13 +1491,13 @@
     "Origin": "Pazardzhik",
     "Destination": "Plovdiv",
     "Distance": 38.7,
-    "Duration": "45 мин"
+    "Duration": "44 мин"
   },
   {
     "Origin": "Pazardzhik",
     "Destination": "Razgrad",
     "Distance": 356.0,
-    "Duration": "4 ч 14 мин"
+    "Duration": "4 ч 15 мин"
   },
   {
     "Origin": "Pazardzhik",
@@ -1515,7 +1515,7 @@
     "Origin": "Pazardzhik",
     "Destination": "Sliven",
     "Distance": 213.0,
-    "Duration": "2 ч 14 мин"
+    "Duration": "2 ч 11 мин"
   },
   {
     "Origin": "Pazardzhik",
@@ -1562,7 +1562,7 @@
   {
     "Origin": "Pernik",
     "Destination": "Pleven",
-    "Distance": 210.0,
+    "Distance": 213.0,
     "Duration": "2 ч 34 мин"
   },
   {
@@ -1574,19 +1574,19 @@
   {
     "Origin": "Pernik",
     "Destination": "Razgrad",
-    "Distance": 383.0,
+    "Distance": 385.0,
     "Duration": "4 ч 44 мин"
   },
   {
     "Origin": "Pernik",
     "Destination": "Ruse",
-    "Distance": 357.0,
-    "Duration": "4 ч 16 мин"
+    "Distance": 359.0,
+    "Duration": "4 ч 17 мин"
   },
   {
     "Origin": "Pernik",
     "Destination": "Silistra",
-    "Distance": 477.0,
+    "Distance": 483.0,
     "Duration": "5 ч 52 мин"
   },
   {
@@ -1599,12 +1599,12 @@
     "Origin": "Pernik",
     "Destination": "Smolyan",
     "Distance": 281.0,
-    "Duration": "4 ч 11 мин"
+    "Duration": "3 ч 47 мин"
   },
   {
     "Origin": "Pernik",
     "Destination": "Sofia",
-    "Distance": 44.5,
+    "Distance": 46.7,
     "Duration": "48 мин"
   },
   {
@@ -1616,7 +1616,7 @@
   {
     "Origin": "Pernik",
     "Destination": "Targovishte",
-    "Distance": 365.0,
+    "Distance": 368.0,
     "Duration": "4 ч 26 мин"
   },
   {
@@ -1628,7 +1628,7 @@
   {
     "Origin": "Pernik",
     "Destination": "Shumen",
-    "Distance": 407.0,
+    "Distance": 410.0,
     "Duration": "4 ч 39 мин"
   },
   {
@@ -1658,14 +1658,14 @@
   {
     "Origin": "Pleven",
     "Destination": "Silistra",
-    "Distance": 271.0,
+    "Distance": 274.0,
     "Duration": "3 ч 29 мин"
   },
   {
     "Origin": "Pleven",
     "Destination": "Sliven",
     "Distance": 232.0,
-    "Duration": "2 ч 58 мин"
+    "Duration": "2 ч 52 мин"
   },
   {
     "Origin": "Pleven",
@@ -1683,7 +1683,7 @@
     "Origin": "Pleven",
     "Destination": "Stara Zagora",
     "Distance": 190.0,
-    "Duration": "2 ч 56 мин"
+    "Duration": "2 ч 57 мин"
   },
   {
     "Origin": "Pleven",
@@ -1725,7 +1725,7 @@
     "Origin": "Plovdiv",
     "Destination": "Silistra",
     "Distance": 403.0,
-    "Duration": "4 ч 34 мин"
+    "Duration": "5 ч 22 мин"
   },
   {
     "Origin": "Plovdiv",
@@ -1778,8 +1778,8 @@
   {
     "Origin": "Razgrad",
     "Destination": "Ruse",
-    "Distance": 64.0,
-    "Duration": "48 мин"
+    "Distance": 63.1,
+    "Duration": "47 мин"
   },
   {
     "Origin": "Razgrad",
@@ -1808,8 +1808,8 @@
   {
     "Origin": "Razgrad",
     "Destination": "Stara Zagora",
-    "Distance": 220.0,
-    "Duration": "2 ч 49 мин"
+    "Distance": 240.0,
+    "Duration": "2 ч 47 мин"
   },
   {
     "Origin": "Razgrad",
@@ -1838,7 +1838,7 @@
   {
     "Origin": "Ruse",
     "Destination": "Silistra",
-    "Distance": 120.0,
+    "Distance": 124.0,
     "Duration": "1 ч 36 мин"
   },
   {
@@ -1886,8 +1886,8 @@
   {
     "Origin": "Ruse",
     "Destination": "Yambol",
-    "Distance": 234.0,
-    "Duration": "2 ч 59 мин"
+    "Distance": 224.0,
+    "Duration": "3 ч 11 мин"
   },
   {
     "Origin": "Silistra",
@@ -1953,7 +1953,7 @@
     "Origin": "Sliven",
     "Destination": "Stara Zagora",
     "Distance": 69.5,
-    "Duration": "59 мин"
+    "Duration": "58 мин"
   },
   {
     "Origin": "Sliven",
@@ -2018,8 +2018,8 @@
   {
     "Origin": "Sofia",
     "Destination": "Stara Zagora",
-    "Distance": 233.0,
-    "Duration": "2 ч 26 мин"
+    "Distance": 232.0,
+    "Duration": "2 ч 25 мин"
   },
   {
     "Origin": "Sofia",
@@ -2030,8 +2030,8 @@
   {
     "Origin": "Sofia",
     "Destination": "Haskovo",
-    "Distance": 228.0,
-    "Duration": "2 ч 22 мин"
+    "Distance": 227.0,
+    "Duration": "2 ч 20 мин"
   },
   {
     "Origin": "Sofia",
@@ -2042,8 +2042,8 @@
   {
     "Origin": "Sofia",
     "Destination": "Yambol",
-    "Distance": 299.0,
-    "Duration": "2 ч 57 мин"
+    "Distance": 298.0,
+    "Duration": "2 ч 56 мин"
   },
   {
     "Origin": "Stara Zagora",
@@ -2073,7 +2073,7 @@
     "Origin": "Targovishte",
     "Destination": "Haskovo",
     "Distance": 245.0,
-    "Duration": "3 ч 15 мин"
+    "Duration": "2 ч 53 мин"
   },
   {
     "Origin": "Targovishte",

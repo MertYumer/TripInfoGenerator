@@ -6,6 +6,7 @@
     using System.Net;
     using System.Text;
     using System.Text.RegularExpressions;
+    using System.Threading;
 
     using Newtonsoft.Json;
     using Newtonsoft.Json.Linq;
@@ -101,25 +102,29 @@
 
                     trips.Add(trip);
 
-                    WriteCurrentTripAndCompletionStatus(trip, i);
+                    WriteCompletionStatus(trip, i);
 
                     response.Close();
                 }
 
                 //You have to add pause between requests with appropriate interval, otherwise the program gives WebException - Error(429): Too many requests
-                System.Threading.Thread.Sleep(30000);
+                Thread.Sleep(30000);
             }
         }
 
-        private static void WriteCurrentTripAndCompletionStatus(Trip trip, int i)
+        private static void WriteCompletionStatus(Trip trip, int i)
         {
-            var jsonTrip = JsonConvert.SerializeObject(trip, Formatting.Indented);
-            Console.WriteLine(jsonTrip);
-
             double percent = (double)((i + 1) * 100 / urls.Count);
             double percentCompletedRequests = Math.Ceiling(percent);
-            Console.WriteLine($"Completed requests - {percentCompletedRequests}%");
-            Console.WriteLine($"Remaining requests - {urls.Count - (i + 1)}");
+            Console.Clear();
+            Console.WriteLine($"             Completion - {percentCompletedRequests}%");
+
+            var loadedPart = new string('|', (int)(percentCompletedRequests * 0.4));
+            var remainingPart = new string('.', (int)((100 - percentCompletedRequests) * 0.4));
+
+            Console.WriteLine($"[{loadedPart}{remainingPart}]");
+
+            Console.WriteLine($"       Remaining requests - {urls.Count - (i + 1)}/{urls.Count}");
         }
 
         private static void WriteResultToFile()
@@ -138,6 +143,11 @@
             var jsonContent = File.ReadAllText(filePath);
             var tripsInfo = JToken.Parse(jsonContent).ToString(Formatting.Indented);
             Console.WriteLine(tripsInfo);
+        }
+
+        public static void Tick()
+        {
+            Console.WriteLine("Tick: {0}", DateTime.Now.ToString("h:mm:ss"));
         }
     }
 }
